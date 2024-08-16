@@ -1,0 +1,22 @@
+string.h
+
+1. strlen (string length)
+size_t strlen(const char *str);
+
+2. strcpy (string copy)
+char *strcpy(char *dest, const char *src);
+
+3. strncpy (string n copy)
+char *strncpy(char *dest, const char*src, size_t n);
+
+4. strcat (string concatenate)
+char *strcat(char *dest, const char *src);
+
+5. strcmp (string compare)
+int strcmp(const char *str1, const char *str2);
+
+6. strchr (string character)
+char *strchr(const char *str, int c); 여기서 c는 문자로 ASCII를 통해 숫자와 변환될 수 있어서 int형이다.
+
+7. strstr (string string)
+char *strstr(const char *haystack, const char *needle);
