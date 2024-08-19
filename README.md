@@ -7,7 +7,7 @@
   - 너비 우선 탐색 (BFS)
 
 - **정렬 알고리즘 (SORTING)**
-  - ${\textsf{\color{버블 정렬}Green}}$
+  - ${\textsf{\color{green}버블 정렬}}$
   + 선택 정렬
   + 삽입 정렬
   + 병합 정렬
