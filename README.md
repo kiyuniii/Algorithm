@@ -1,10 +1,10 @@
 # 알고리즘
 
 - **탐색 알고리즘 (SEARCHING)**
-  - 순차 탐색
-  - 이진 탐색
-  - 깊이 우선 탐색 (DFS)
-  - 너비 우선 탐색 (BFS)
+  - ${\textsf{\color{red}순차 탐색}}$
+  - ${\textsf{\color{red}이진 탐색}}$
+  - ${\textsf{\color{red}깊이 우선 탐색 (DFS)}}$
+  - ${\textsf{\color{red}너비 우선 탐색 (BFS}}$
 
 - **정렬 알고리즘 (SORTING)**
   - ${\textsf{\color{green}선택 정렬}}$	
