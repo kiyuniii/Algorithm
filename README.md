@@ -23,7 +23,7 @@
 
 - **동적 계획법 (DYNAMIC PROGRAMMING)**
   - ${\textsf{\color{green}피보나치 수열}}$
-  - ${\textsf{\color{red최장 공통 부분 수열}}$
+  - ${\textsf{\color{red}최장 공통 부분 수열}}$
   - ${\textsf{\color{red}배낭 문제}}$
   - ${\textsf{\color{red}최단 경로 문제}}$
     - ${\textsf{\color{red}벨만-포드 알고리즘}}$	
